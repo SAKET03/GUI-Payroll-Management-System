@@ -13,7 +13,7 @@ This project uses Tkinter for the GUI and MySQL for the Database.
 6.  Generation of Payroll based on total no. of working days which uses excel sheet as an input
 7.  Exporting generated payroll to excel
 
-### The flow of the Project
+### Flow of the Project
 
 1.  Switch on the xampp server for Database
 2.  Run [login.py](https://github.com/SAKET03/GUI-Payroll-Management-System/blob/main/login.py) to start the project
